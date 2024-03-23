@@ -1,1 +1,1 @@
-An API created in Ruby, used in Def Friendly Cafes App.
+An API created in Ruby, used in Dev Friendly Cafes App.
